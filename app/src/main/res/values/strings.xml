@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsDinamicos</string>
+    <!-- Botones -->
+    <string name="btnrojo">RED</string>
+    <string name="btnazul">BLUE</string>
+    <string name="btnverde">GREEN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
